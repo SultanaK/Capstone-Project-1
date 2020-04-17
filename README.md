@@ -21,9 +21,9 @@ jQuery,
 Spoonacular API,
 Edaman API,
 youtube API,
-Slack
-GitHub
-Visual Studio 
-Git Bash
-Google Fonts
+Slack,
+GitHub,
+Visual Studio, 
+Git Bash and
+Google Fonts.
 
